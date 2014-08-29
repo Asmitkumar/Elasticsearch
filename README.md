@@ -1,8 +1,6 @@
 Elasticsearch
 =============
 
-Index your documents automatically to elasticsearch and do various operations on your document.
-
 These are very generic scripts - which are very useful setting up elasticsearch
 
 ----------------
